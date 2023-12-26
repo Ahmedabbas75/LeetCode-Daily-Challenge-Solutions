@@ -13,7 +13,6 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |  Number  |      Title     |   Difficulty   | Topic    | Solutions   |                  
 |-----|----------------|--------------- |--------|-------------|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|Easy|String & DP|[Solution](https://ideone.com/molHZF) |
-
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|Array & Matrix & Simulation|[Solution](https://ideone.com/DimdN1) |
 
 
