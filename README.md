@@ -1,2 +1,10 @@
+<p align="center">
+  <a  href="https://leetcode.com">
+    <img height=80 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">
+  </a>
+  <br>
+  <br>
+</p>
+
 # LeetCode-Daily-Challenge-Solutions
-This collection of a daily challenge LeetCode problems. This repository features easy-to-understand solutions that are constantly updated for improved performance. Whether you're a coding novice or looking to refresh your skills, this repository is a great resource to help you develop your abilities and become a better programmer.
+This repository is created to help people make progress in problem solving. It contains three main folders:
