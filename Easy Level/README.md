@@ -9,7 +9,7 @@
 # Easy level Solutions
 This folder contains solutions to problems that are suitable for beginners in problem solving. These problems cover a range of topics and will help you improve your problem solving skills.
 
-# Beginner-Level-Solutions.:bulb:
+# Beginner-Level-Solutions
 |  Number  |      Title     |   Difficulty   | Topic    | Solutions   |                  
 |-----|----------------|--------------- |--------|-------------|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|Easy|String & DP|[Solution](https://ideone.com/molHZF) |
