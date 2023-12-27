@@ -12,7 +12,7 @@ This folder contains solutions to problems that are suitable for intermediate-le
 # Medium-Level-Solutions
 |  Number  |      Title     |   Difficulty   | Topic    | Solutions   |                  
 |-----|----------------|--------------- |--------|-------------|
-|1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)|Medium|Array & String & Greedy|[Solution](/Solutions/1578. Minimum Time to Make Rope Colorful.py |
+|1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful)|Medium|Array & String & Greedy|[Solution](../Solutions/1578. Minimum Time to Make Rope Colorful.py |
 
 
 
