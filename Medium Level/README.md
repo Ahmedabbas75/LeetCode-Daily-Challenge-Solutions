@@ -17,6 +17,8 @@ This folder contains solutions to problems that are suitable for intermediate-le
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|Medium|Sorting & String & Hash Table & Array|[Solution](../Solutions/Group_Anagrams.py) |
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Medium|Greedy & Array |[Solution](../Solutions/Best_Time_to_Buy_Sell_Stock.py) |
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|Medium|Hash Table & String & Math |[Solution](../Solutions/Integer_to_Roman.py) |
+|2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)|Medium|Hash Table & Array |[Solution](../Solutions/Convert_an_Array_Into_2D_Array_With_Conditions.py) |
+
 
 
 
