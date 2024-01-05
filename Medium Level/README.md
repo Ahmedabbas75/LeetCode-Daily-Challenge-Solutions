@@ -18,7 +18,7 @@ This folder contains solutions to problems that are suitable for intermediate-le
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Medium|Greedy & Array |[Solution](../Solutions/Best_Time_to_Buy_Sell_Stock.py) |
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|Medium|Hash Table & String & Math |[Solution](../Solutions/Integer_to_Roman.py) |
 |2610|[Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)|Medium|Hash Table & Array |[Solution](../Solutions/Convert_an_Array_Into_2D_Array_With_Conditions.py) |
-
+|2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty)|Medium|Hash Table & Counting & Array |[Solution](../Solutions/Minimum_Number_of_Operations_to_Make_Array_Empty.py) |
 
 
 
