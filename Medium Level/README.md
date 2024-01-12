@@ -21,6 +21,8 @@ This folder contains solutions to problems that are suitable for intermediate-le
 |2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty)|Medium|Hash Table & Counting & Array |[Solution](../Solutions/Minimum_Number_of_Operations_to_Make_Array_Empty.py) |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|Binary Search & Array |[Solution](../Solutions/Longest_Increasing_Subsequence.py) |
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium|Hash Map & Array |[Solution](../Solutions/Two_Sum_II.py) |
+|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|Medium|Sliding Window & String |[Solution](../Solutions/Maximum_Vowels.py) |
+
 
 
 
