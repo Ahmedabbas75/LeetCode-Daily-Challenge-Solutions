@@ -10,7 +10,7 @@
 This folder contains solutions to problems that are suitable for beginners in problem solving. These problems cover a range of topics and will help you improve your problem solving skills.
 
 # Beginner-Level-Solutions
-|  Number  |      Title     |   Difficulty   | Topic    | Solutions   |                  
+|  Number  |      Title     |   Difficulty   | Topic    | Solutions   | Video |              
 |-----|----------------|--------------- |--------|-------------|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|Easy|String & DP|[Solution](https://ideone.com/molHZF) |
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|Array & Matrix & Simulation|[Solution](https://ideone.com/DimdN1) |
