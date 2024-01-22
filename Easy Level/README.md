@@ -21,6 +21,8 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|Easy|Array & Two Pointers & Greedy & Sorting|[Solution](../Solutions/Assign_Cookies.py) |
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)|Easy|String & Counting|[Solution](../Solutions/1704Determine_if_String_Halves.py) |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|Easy|Math & Dynamic Programming|[Solution](../Solutions/Climbing_Stairs.py) |
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|Easy|Math & Hash Set|[Solution](../Solutions/Set_Mismatch.py) |
+
 
 
 
