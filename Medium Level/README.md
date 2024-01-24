@@ -23,6 +23,7 @@ This folder contains solutions to problems that are suitable for intermediate-le
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium|Hash Map & Array |[Solution](../Solutions/Two_Sum_II.py) |
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|Medium|Sliding Window & String |[Solution](../Solutions/Maximum_Vowels.py) |
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|Medium|Hash Table & String |[Solution](../Solutions/1347_Strings_Anagram.py) |
+|2352|[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs)|Medium|Hash Table & Matrix |[Solution](../Solutions/Equal_RowColumn_Pairs.py) |
 
 
 
